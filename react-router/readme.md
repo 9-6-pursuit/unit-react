@@ -2,7 +2,7 @@
 
 React allows us to build UI (User Interfaces) for websites with components. Front-end frameworks like React are known as SPAs (Single Page Applications), and so far, that's what we've been building - single pages with a lot of functionality. As we've been building React Apps, you may have noticed that we can't use the URL or forward/back buttons in the browser. So if we wanted to have an `about` page and a `main` page, we could only use conditional rendering, and if we wanted to send someone a link to the `about` page, we can't. We'd have to send them to the main page and then tell them to click on the `about` page.
 
-We can add a library called [React Router DOM](https://reactrouter.com/docs/en/v6) that will allow us to bring the functionality of a multi-page application to our React apps. Using a library like React Router will enable us to do client-side routing.
+We can add a library called [React Router DOM](https://reactrouter.com/en/main/start/tutorial) that will allow us to bring the functionality of a multi-page application to our React apps. Using a library like React Router will enable us to do client-side routing.
 
 **Caveat:** React Router has undergone significant changes with its different versions. This lesson is on Version 6. When you are googling/looking things up on Stack Overflow, make sure you are looking at something that has to do with Version 6. The old syntax and some old solutions don't work with the new version. If you have familiarity with Version 5, you can [go here](https://github.com/joinpursuit/react-router-v5-to-v6) to see a quick summary of most of the changes that would impact the kinds of builds we are making in this class.
 
