@@ -78,7 +78,7 @@ One place you have already seen CRUD actions is on the command line. For example
 | Update | `mv`            | Allows for the renaming of a file. |
 | Delete | `rm`            | Deletes a file.                    |
 
-You can perform these same actions on the command line for files as well:
+You can perform these same actions on the command line for folders as well:
 
 | Action | Command        | Effect                                              |
 | ------ | -------------- | --------------------------------------------------- |
